@@ -3,6 +3,7 @@
 
 # First we need to import a few libraries which
 # help us to do the actual math and machine learning parts
+import sys
 import matplotlib.pyplot as plt
 import numpy as np
 from keras.datasets import mnist
